@@ -13,5 +13,5 @@ A web crawler gathering data from a certain web page and storing it in JSON file
 
 #### Before starting scanner
 
-Edit "run.py" be replacing *chromedriver* src location on line: 298
+Edit "run.py" by replacing *chromedriver* src location on line: 298
 `browser = webdriver.Chrome("source_to_chromedriver")`
